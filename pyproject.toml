@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gpx-dwell-report"
+version = "0.1.0"
+description = "Read actual GPX1.1 track segments and emit fixed-anchor dwell windows, separate gap/speed-jump evidence and raw versus accepted pair totals."
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+gpx-dwell-report = "gpx_dwell_report:main"
+
+[tool.setuptools]
+py-modules = ["gpx_dwell_report"]

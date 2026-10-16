@@ -1,0 +1,149 @@
+[
+  {
+    "full": "tumic0/GPXSee",
+    "url": "https://github.com/tumic0/GPXSee",
+    "stars": 1251,
+    "default_branch": "master",
+    "pushed_at": "2026-10-15T15:58:53Z",
+    "updated_at": "2026-10-15T15:58:58Z",
+    "archived": false,
+    "license": "GPL-3.0",
+    "description": "GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.",
+    "observed": "2026-10-16T06:07:59.246Z",
+    "readme": {
+      "path": "README.md",
+      "sha": "f52f5cb5a41d08609b778ee1cc47ffaafbe8530c"
+    },
+    "issues": [
+      {
+        "number": 673,
+        "title": "Add support for bingmaps: URI scheme (protocol)",
+        "url": "https://github.com/tumic0/GPXSee/issues/673",
+        "pull_request": false
+      },
+      {
+        "number": 659,
+        "title": "Android app immediately crashes when opening menu item",
+        "url": "https://github.com/tumic0/GPXSee/issues/659",
+        "pull_request": false
+      },
+      {
+        "number": 656,
+        "title": "Feature request - change font size of position marker info",
+        "url": "https://github.com/tumic0/GPXSee/issues/656",
+        "pull_request": false
+      },
+      {
+        "number": 634,
+        "title": "The current KML parser does not support KML version 2.3",
+        "url": "https://github.com/tumic0/GPXSee/issues/634",
+        "pull_request": false
+      },
+      {
+        "number": 628,
+        "title": "Garmin maps - displaying objects details on tap",
+        "url": "https://github.com/tumic0/GPXSee/issues/628",
+        "pull_request": false
+      }
+    ],
+    "observation_scope": "Metadata, current README and up to five current issue/PR entries inspected; not exhaustive issue history or a competitor execution benchmark."
+  },
+  {
+    "full": "gpxstudio/gpx.studio",
+    "url": "https://github.com/gpxstudio/gpx.studio",
+    "stars": 1240,
+    "default_branch": "main",
+    "pushed_at": "2026-10-14T06:17:58Z",
+    "updated_at": "2026-10-15T03:47:22Z",
+    "archived": false,
+    "license": "MIT",
+    "description": "the online GPX file editor",
+    "observed": "2026-10-16T06:07:58.349Z",
+    "readme": {
+      "path": "README.md",
+      "sha": "dce2a14f044c01a95741a14ba75d32699a6cf0fa"
+    },
+    "issues": [
+      {
+        "number": 399,
+        "title": "Extension API: allow custom source and layers for overlays",
+        "url": "https://github.com/gpxstudio/gpx.studio/pull/399",
+        "pull_request": true
+      },
+      {
+        "number": 398,
+        "title": "fix a latitude typed past \u00b190 in the waypoint tool",
+        "url": "https://github.com/gpxstudio/gpx.studio/pull/398",
+        "pull_request": true
+      },
+      {
+        "number": 397,
+        "title": "fix a click on the temporary anchor",
+        "url": "https://github.com/gpxstudio/gpx.studio/pull/397",
+        "pull_request": true
+      },
+      {
+        "number": 396,
+        "title": "[Feature Request] Add data summary table to replace elevation chart",
+        "url": "https://github.com/gpxstudio/gpx.studio/issues/396",
+        "pull_request": false
+      },
+      {
+        "number": 395,
+        "title": "Extension API: allow custom source/layer styling for extension overlays",
+        "url": "https://github.com/gpxstudio/gpx.studio/issues/395",
+        "pull_request": false
+      }
+    ],
+    "observation_scope": "Metadata, current README and up to five current issue/PR entries inspected; not exhaustive issue history or a competitor execution benchmark."
+  },
+  {
+    "full": "tkrajina/gpxpy",
+    "url": "https://github.com/tkrajina/gpxpy",
+    "stars": 1108,
+    "default_branch": "dev",
+    "pushed_at": "2026-09-26T11:50:36Z",
+    "updated_at": "2026-10-14T22:26:50Z",
+    "archived": false,
+    "license": "Apache-2.0",
+    "description": "gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.",
+    "observed": "2026-10-16T06:07:57.731Z",
+    "readme": {
+      "path": "README.md",
+      "sha": "5a33dd6b8190ecc31746843e54eeb935d7ca955a"
+    },
+    "issues": [
+      {
+        "number": 315,
+        "title": "Preserve flat elevation points when removing extremes",
+        "url": "https://github.com/tkrajina/gpxpy/pull/315",
+        "pull_request": true
+      },
+      {
+        "number": 314,
+        "title": "Honor an explicit zero stopped-speed threshold",
+        "url": "https://github.com/tkrajina/gpxpy/pull/314",
+        "pull_request": true
+      },
+      {
+        "number": 313,
+        "title": "Handle zero intervals and short tracks when filling timestamps",
+        "url": "https://github.com/tkrajina/gpxpy/pull/313",
+        "pull_request": true
+      },
+      {
+        "number": 312,
+        "title": "Include stationary intervals when averaging point speeds",
+        "url": "https://github.com/tkrajina/gpxpy/pull/312",
+        "pull_request": true
+      },
+      {
+        "number": 311,
+        "title": "Parse GPX files that bind the GPX namespace to a prefix",
+        "url": "https://github.com/tkrajina/gpxpy/pull/311",
+        "pull_request": true
+      }
+    ],
+    "observation_scope": "Metadata, current README and up to five current issue/PR entries inspected; not exhaustive issue history or a competitor execution benchmark."
+  }
+]
